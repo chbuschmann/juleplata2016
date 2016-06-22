@@ -2,7 +2,7 @@ EXT. LYD Verdensrommet
 
 En romsonde farer forbi vi hører radio og tv-signaler fra eldre tider rikosjert i et tilfeldig kaos. Foruroligende musikk.
 
-ELDRE KVINNESTEMME
+ELDRE KVINNESTEMME (FORTELLER)
 (type Wenche Foss)
 Det finnes noen historier ingen kan fortelle. Noen ganger er det fordi historien ikke har skjedd enda, og noen ganger er det fordi en historie er blitt revet vekk fra tiden som et uønsket ark i en bok. Å, historien den er der, fanget i et tverrsnitt av tid, men om ingen husker er det ingen som forteller den. En grusom løgn konstruert av hjerteløse menn.
 
@@ -11,7 +11,7 @@ Musikken når et crecendo.
 ELDRE KVINNESTEMME
 La oss begynne på begynnelsen.
 
-INT. Vertshuset Den Slu Hare - natt, god stemning
+INT. Vertshuset Den Slu Hare - natt, litt full pub stemning
 
 God i gassen finner vi alle våre kjente og kjære fra FLATLAND, det er generalrådsmåte i Flatland Sosietet: Sigar og Rødvinsforening AS.
 
@@ -22,6 +22,9 @@ Tøysebrus, tøysebrus!
 DR. ROMFARER YNGVE
 Arr, og skål for svarte svingende!
 
+ALLE
+SKÅL!
+
 DEN VISE MANNEN I TÅRNET
 (overstadig syngende)
 Tøysebrus, tøysetøs!
@@ -29,11 +32,10 @@ VIL DE SE TIL Å SERVERE MEG MER TØYSEBRUS, er de snill!
 
 VERTINNE
 Jeg tror du har fått...
-(avbrutt)
 
-DEN VISE MANNEN I TÅRNET
+DEN VISE MANNEN I TÅRNET^
 (bryter inn)
-Tro kan de gjøre på julenissen. Jeg derimot *vet* hva som er lurt og ikke, så kom ikke her og tro og tro som at tro er så lurt liksom...
+...Tro kan de gjøre på julenissen. Jeg derimot *vet* hva som er lurt og ikke, så kom ikke her og tro og tro som at tro er så lurt liksom...
 (avbrutt)
 
 VERTINNE
@@ -45,4 +47,16 @@ DEN VISE MANNEN I TÅRNET
 Jamen?!
 
 DR. ROMFARER YNGVE
-Arr, for svingende!
+Arr, slik er det, min gode venn. Lek med ild og bli brent.
+
+DEN VISE MANNEN I TÅRNET
+Jamen, jeg prøve jo bare...
+
+TERJE TRUBADUR^
+(bryter inn)
+...å overforklare saken, slik du alltid gjør.
+
+Alle ler og skåler.
+
+ELDRE KVINNESTEMME
+Blant dem satt én som kunne historien ingen burde vite om.
