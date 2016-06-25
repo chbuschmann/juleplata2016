@@ -1,6 +1,6 @@
 # Julplate 2016
 
-radio drama
+Radio drama
 
 ## INTRODUKSJON
 Det regner kraftig, grått og blått er det eneste som trenger gjennom skyene. Den enslige bjørka gynger i takt med regnet. Ved kistene står en dame kledd i svart. Hun gråter, og hun er sint.
