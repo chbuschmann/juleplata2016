@@ -1,14 +1,11 @@
-# Julplate 2016
+# Juledrama 2016
 
-Radio drama
+Radio drama i x deler. Alt etter hvor dette går er planen å *minst* nevne FLATLAND, muligens også ha det som et eget avsnitt.
 
 ## INTRODUKSJON
-Det regner kraftig, grått og blått er det eneste som trenger gjennom skyene. Den enslige bjørka gynger i takt med regnet. Ved kistene står en dame kledd i svart. Hun gråter, og hun er sint.
+Det regner kraftig, grått og blått er det eneste som trenger gjennom skyene. Verden er der, men den er død. Ingen dyr, ingen mennesker, kun tomme hus og skall. Ved kistene står en dame kledd i svart. Hun gråter, og hun er sint.
 
 - Antitidskapsel
-- Er drømmer smittsomme?
+- Er drømmer *smittsomme?*
 - Hva skjer om du blir fanget i en drøm?
-- Yngve skriver om han som ligger i kista.
-- Tom Erlend får ikke sove
-- Kontoret, på jobb - under en pult?
 - Universet - hva er reglene? Styrer noen drømmene?
